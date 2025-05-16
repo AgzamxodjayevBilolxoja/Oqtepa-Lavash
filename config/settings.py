@@ -25,7 +25,9 @@ SECRET_KEY = 'django-insecure-c8)nn8!ged%rg3nooks*%(k1@5bx380ilnd$y1&_d1qggujl!x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://oqtepa-lavash.onrender.com', '0.0.0.0']
+ALLOWED_HOSTS = ['oqtepa-lavash.onrender.com']
+
+CSRF_TRUSTED_ORIGINS = ['https://oqtepa-lavash.onrender.com']
 
 
 # Application definition
