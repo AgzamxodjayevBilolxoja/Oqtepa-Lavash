@@ -56,7 +56,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'agzamxodjayevbilolxoja@gmail.com'
-EMAIL_HOST_PASSWORD = 'qzei ujkq vycl eryv'
+EMAIL_HOST_PASSWORD = 'bmma bhuu jguv gioa'
 
 
 
